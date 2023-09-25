@@ -1,0 +1,3 @@
+add_subdirectory(app_module1)
+add_subdirectory(app_module2)
+add_subdirectory(tools)

@@ -1,5 +1,11 @@
 #pragma once
 
-namespace project_template { namespace tools{
-    
-}}
+#include <iostream>
+
+namespace project_template
+{
+    namespace tools
+    {
+        int PrintHello();
+    }
+}
