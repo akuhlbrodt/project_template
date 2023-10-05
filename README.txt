@@ -1,0 +1,3 @@
+Just a small CMake proj. template.
+
+Work in progress...
